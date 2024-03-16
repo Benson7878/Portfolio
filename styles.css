@@ -2,5 +2,45 @@ h1{
     display: block;
     background-color: blue;
     text-align: center;
+}
+
+
+body{
+    background-color: aqua;
+
+}
+img{
+    width: 500px;
     
+}
+
+h4{
+    text-align: center;
+}
+.Centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+ol{
+    list-style: decimal;
+    margin: 0%;
+    padding: 0%;
+}
+
+div.Container{
+    text-align: center;
+}
+
+.myol{
+    display: inline-block;
+    text-align: left;
 }
